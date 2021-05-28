@@ -1,0 +1,5 @@
+tests.py
+config.json
+__pycache_*
+.vscod*
+sessionFil*
